@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\79065\\OneDrive\\Рабочий стол\\C# progs\\good new beggining\\3D-OpenTK-Game\\good new beggining.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\79065\\OneDrive\\Рабочий стол\\C# progs\\good new beggining\\3D-OpenTK-Game\\good new beggining.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\79065\\OneDrive\\Рабочий стол\\C# progs\\good new beggining\\3D-OpenTK-Game\\good new beggining.csproj",
+        "projectName": "good new beggining",
+        "projectPath": "C:\\Users\\79065\\OneDrive\\Рабочий стол\\C# progs\\good new beggining\\3D-OpenTK-Game\\good new beggining.csproj",
+        "packagesPath": "C:\\Users\\79065\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79065\\OneDrive\\Рабочий стол\\C# progs\\good new beggining\\3D-OpenTK-Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\79065\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "StbImageSharp": {
+              "target": "Package",
+              "version": "[2.27.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

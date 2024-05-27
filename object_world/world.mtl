@@ -1,0 +1,33 @@
+# Blender 4.1.1 MTL File: 'prairie.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.025245 0.240202 0.045767
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 0.000000
+Ka 0.631818 0.631818 0.631818
+Ks 0.313636 0.313636 0.313636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -s 2 2 1 C:/Users/79065/OneDrive/Рабочий стол/blender files/trees/Bark_Picea_rubens_Diffuse.png
+map_Bump -s 2 2 1 -bm 3.800000 C:/Users/ugora/OneDrive/Images/Captures d’écran/Bark_Picea_rubens_Normal.png
